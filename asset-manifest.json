@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/survey/static/css/main.69eda509.chunk.css",
+    "main.js": "/survey/static/js/main.a69d3895.chunk.js",
+    "main.js.map": "/survey/static/js/main.a69d3895.chunk.js.map",
+    "runtime-main.js": "/survey/static/js/runtime-main.58f1c5eb.js",
+    "runtime-main.js.map": "/survey/static/js/runtime-main.58f1c5eb.js.map",
+    "static/js/2.5f44b497.chunk.js": "/survey/static/js/2.5f44b497.chunk.js",
+    "static/js/2.5f44b497.chunk.js.map": "/survey/static/js/2.5f44b497.chunk.js.map",
+    "index.html": "/survey/index.html",
+    "precache-manifest.023e138236ff9ca80af008566232ff9a.js": "/survey/precache-manifest.023e138236ff9ca80af008566232ff9a.js",
+    "service-worker.js": "/survey/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/survey/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.5f44b497.chunk.js.LICENSE.txt": "/survey/static/js/2.5f44b497.chunk.js.LICENSE.txt",
+    "static/media/betconstruct.png": "/survey/static/media/betconstruct.62b76bd2.png",
+    "static/media/dropdown-menu-720x420.png": "/survey/static/media/dropdown-menu-720x420.732369a9.png",
+    "static/media/helix.png": "/survey/static/media/helix.ad1d4a91.png",
+    "static/media/input-date.png": "/survey/static/media/input-date.c1497ce9.png",
+    "static/media/phone-240px.png": "/survey/static/media/phone-240px.b8aeead7.png",
+    "static/media/picsart.png": "/survey/static/media/picsart.05e16814.png",
+    "static/media/sfl.png": "/survey/static/media/sfl.01eaf7bd.png",
+    "static/media/teamable.png": "/survey/static/media/teamable.c13c269e.png",
+    "static/media/workfront_new.png": "/survey/static/media/workfront_new.86d6327f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58f1c5eb.js",
+    "static/js/2.5f44b497.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.a69d3895.chunk.js"
+  ]
+}
