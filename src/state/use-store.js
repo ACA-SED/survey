@@ -1,6 +1,6 @@
 import { useContext } from 'react';
-import SurveyContext from './context';
+import StoreContext from './context';
 
 export function useStore() {
-  return useContext(SurveyContext);
+  return useContext(StoreContext);
 }

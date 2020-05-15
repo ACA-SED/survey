@@ -2,4 +2,4 @@ import React from 'react';
 
 const StoreContext = React.createContext();
 
-export { StoreContext as default };
+export default StoreContext;
